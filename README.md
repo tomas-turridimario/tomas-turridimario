@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Tomas Turridi Mario 👋
 
-<!--
-**tomas-turridimario/tomas-turridimario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Data Science Student @ ISTEA | Full Stack Developer
 
-Here are some ideas to get you started:
+Apasionado por transformar datos en decisiones estratégicas. Actualmente profundizando en IA y análisis de datos en ISTEA, combinando mi base técnica en desarrollo web con el análisis estadístico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías & Herramientas
+- **Datos:** Python (Pandas, NumPy), SQL, Power BI, Excel Avanzado.
+- **Web:** React JS, Node.js, HTML5/CSS3.
+- **E-commerce:** Partner en Tienda Nube y Tienda Negocio.
+
+
+---
+[Ver mi Portafolio Interactivo con Gráficos →](https://tomas-turridimario.github.io)
