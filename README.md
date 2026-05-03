@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tomas Turridi Mario 👋
+# ¡Hola! Soy Tomas Turri Di Mario 👋
 
 ### Junior Data Analyst | Data Science Student @ ISTEA | Full Stack Developer
 
